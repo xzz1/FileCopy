@@ -1,4 +1,4 @@
 # 项目根目录
-projectRootPath:
+projectRootPath: /your/root/project/path/
 # 导出目标目录
-targetExportPath:
+targetExportPath: /your/target/export/path

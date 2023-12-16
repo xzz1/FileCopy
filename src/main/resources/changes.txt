@@ -1,0 +1,4 @@
+# 需要导出的文件清单，请填写文件在对应项目中的相对路径
+project/src/main/java/com/xsvovl/your/file/path/file1.java
+project/src/main/java/com/xsvovl/your/file/path/file2.java
+project/src/main/java/com/xsvovl/your/file/path/file3.java
